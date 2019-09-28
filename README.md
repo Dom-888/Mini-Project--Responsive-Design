@@ -1,5 +1,3 @@
-# Responsive-Design---Mini-Project
-
-Purposes:
--Using moble-first approach
--Testing html shotcuts
+# Purposes of the project:
+- Using mobile-first approach
+- Testing html shotcuts
